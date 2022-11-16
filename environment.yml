@@ -1,0 +1,6 @@
+name: guisper
+dependencies:
+  - whisper
+  - pip
+  - pip:
+    - pyqt6
